@@ -1,0 +1,18 @@
+.main-title{
+    text-align: center;
+}
+.news-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.search-input{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,36 @@
+.news-asrticle-img{
+    height: 250px;
+    width: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+
+}
+.news-article-card{
+    margin-bottom: 50px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding: 10px;
+}
+.article-title{
+    font-size: 22px;
+}
+.article-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+  text-decoration: none;
+  background-color: black;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  text-align: center;
+}
